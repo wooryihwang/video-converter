@@ -5,7 +5,7 @@ AVI · WMV · MKV · MOV · ASF 파일을 MP4(H.264 + AAC)로 바꿔 주는 Wind
 
 ## 다운로드
 
-설치 없이 쓰는 실행파일은 [Releases](https://github.com/wooryihwang/video-converter/releases) 페이지에서 `동영상변환기.exe`를 내려받으면 됩니다.
+설치 없이 쓰는 실행파일은 [Releases](https://github.com/wooryihwang/video-converter/releases) 페이지에서 `VideoConverter.exe`를 내려받으면 됩니다. (저장소 안에서 직접 빌드하면 `dist동영상변환기.exe`로 만들어집니다.)
 
 ## 사용법
 
